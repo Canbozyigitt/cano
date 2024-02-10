@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        int n = 6; // C harfinin yüksekliği
+        int n = 4; // C harfinin yüksekliği
 
         for (int i = 1; i <= n; i++) {
             for (int j = 1; j <= n; j++) {
