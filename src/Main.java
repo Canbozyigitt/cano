@@ -7,7 +7,7 @@ public class Main {
                 if (i == 1 || i == n || j == 1) {
                     System.out.print("*");
                 } else {
-                    System.out.print("");
+                    System.out.print("*");
                 }
             }
             System.out.println();
